@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+datasecurity-env/
+
+# Private keys
+*_private_key.pem
+
+# Cache folders
+cache/
+cache_receiver/
+cache_receiver_auth/
+cache_sender/
+cache_sender_auth/
+
+#yaml-file 
+config123.yaml
