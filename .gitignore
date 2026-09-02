@@ -17,3 +17,6 @@ cache_sender_auth/
 
 #yaml-file 
 config123.yaml
+__pycache__/
+.venv/
+.idea/
