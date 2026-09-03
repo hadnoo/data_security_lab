@@ -20,3 +20,10 @@ config123.yaml
 __pycache__/
 .venv/
 .idea/
+
+#Documentation and media files 
+Classic_flowchart.png
+first_version.pdf
+IMG_4290.MOV
+flight_path.png
+

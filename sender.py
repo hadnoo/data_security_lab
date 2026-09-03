@@ -46,7 +46,7 @@ LEADER_MOVE_TIME = 3.0
 LAND_TIME = 2.0
 
 
-# YOUR MEASURED CORNERS
+# MEASURED CORNERS
 
 CORNER_1 = (
     -0.20,
@@ -176,7 +176,7 @@ def create_aes_key(sock):
         )
     )
 
-    # Generate shared secret
+    # Generate shared secretonfiguration
     shared_secret = private_key.exchange(
         ec.ECDH(),
         follower_public_key
